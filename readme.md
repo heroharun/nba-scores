@@ -25,7 +25,7 @@ Follow these steps to install and run the application:
 
 
 4. Access the application:
-- Please use postman in your local computer and use `http://localhost:8080` to open websocket connection.
+- Please use postman in your local computer and use `http://localhost:8080/ws` to open websocket connection.
 
 ## Usage
 
